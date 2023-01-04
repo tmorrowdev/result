@@ -7,35 +7,79 @@
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/tokens/color.html</loc>
+            <loc>/brand-1/tokens/design-tokens.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/tokens/typography.html</loc>
+            <loc>/brand-1/tokens/color/brand-1.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/tokens/iconography.html</loc>
+            <loc>/brand-1/tokens/color/brand-2.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/components/action-button/design.html</loc>
+            <loc>/brand-1/tokens/typography/brand-1.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/components/action-button/code.html</loc>
+            <loc>/brand-1/tokens/typography/brand-2.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/patterns/login-page-mobile.html</loc>
+            <loc>/brand-1/tokens/iconography.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/resources/design-tokens.html</loc>
+            <loc>/brand-1/components/action-button/design.html</loc>
             <changefreq>weekly</changefreq>
         </url>
         <url>
-            <loc>/resources/tools-and-resources.html</loc>
+            <loc>/brand-1/components/action-button/code.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/brand-1/patterns/login-page-mobile.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/brand-1/patterns/review-pattern-mobile.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/brand-1/resources/tools-and-resources.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/brand-2/tokens/design-tokens.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/brand-2/tokens/color.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/brand-2/tokens/typography.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/brand-2/tokens/iconography.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/brand-2/components/action-button.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/brand-2/patterns/login-page-mobile.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/brand-2/patterns/review-pattern-mobile.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
+            <loc>/brand-2/tools-and-resources/tools-and-resources.html</loc>
             <changefreq>weekly</changefreq>
         </url>
    
