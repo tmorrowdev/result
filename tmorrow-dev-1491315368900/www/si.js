@@ -75,6 +75,13 @@
     "type": "contentBlock",
     "pageName": "Fake© Design System",
     "category": "Fake© Design System",
+    "url": "/fake-design-system.html#search-526dd950-8b87-11ed-b02c-ff8308ee849d"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Fake© Design System",
+    "category": "Fake© Design System",
     "url": "/fake-design-system.html#search-51fc91b0-51da-11ec-9e6d-bdf95c8a8921"
   },
   {
@@ -337,11 +344,11 @@
     "url": "/components/action-button/code.html#search-527f85e0-80ad-11ed-ba82-6b646388b8ea"
   },
   {
-    "text": "Implementation for developers in CignaNx only",
+    "text": "",
     "type": "contentBlock",
     "pageName": "Action/Button /Code",
     "category": "Components / Action/Button  / Code",
-    "url": "/components/action-button/code.html#search-317b3270-80a5-11ed-ba82-6b646388b8ea"
+    "url": "/components/action-button/code.html#search-67d06ab1-7a39-11ed-8a1a-5191561229a1"
   },
   {
     "text": "",
@@ -355,7 +362,7 @@
     "type": "contentBlock",
     "pageName": "Action/Button /Code",
     "category": "Components / Action/Button  / Code",
-    "url": "/components/action-button/code.html#search-67d06ab1-7a39-11ed-8a1a-5191561229a1"
+    "url": "/components/action-button/code.html#search-1580be61-8b8a-11ed-b02c-ff8308ee849d"
   },
   {
     "text": "Code",
@@ -391,6 +398,20 @@
     "pageName": "Login Page-Mobile",
     "category": "Patterns / Login Page-Mobile",
     "url": "/patterns/login-page-mobile.html"
+  },
+  {
+    "text": "",
+    "type": "contentBlock",
+    "pageName": "Review Pattern - Mobile",
+    "category": "Patterns / Review Pattern - Mobile",
+    "url": "/patterns/review-pattern-mobile.html#search-e725ca21-8b88-11ed-b02c-ff8308ee849d"
+  },
+  {
+    "text": "Review Pattern - Mobile",
+    "type": "pageTitle",
+    "pageName": "Review Pattern - Mobile",
+    "category": "Patterns / Review Pattern - Mobile",
+    "url": "/patterns/review-pattern-mobile.html"
   },
   {
     "text": "",
