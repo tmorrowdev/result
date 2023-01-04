@@ -36,7 +36,7 @@ jobs:
         uses: actions/upload-pages-artifact@v1
         with:
           # Upload entire repository
-          path: '../tmorrow-dev-1491315368900/www'
+          path: 'tmorrow-dev-1491315368900/www'
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v1
