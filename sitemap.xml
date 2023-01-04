@@ -31,6 +31,10 @@
             <changefreq>weekly</changefreq>
         </url>
         <url>
+            <loc>/patterns/review-pattern-mobile.html</loc>
+            <changefreq>weekly</changefreq>
+        </url>
+        <url>
             <loc>/resources/design-tokens.html</loc>
             <changefreq>weekly</changefreq>
         </url>
