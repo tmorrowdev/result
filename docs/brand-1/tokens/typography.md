@@ -5,7 +5,7 @@
 
   
 **Token Group UNO Semantic**:    
-Display Large: Roboto Regular 51px  
+Display Large: Roboto Regular 57px  
 Display Medium: Roboto Regular 45px  
 Display Small: Roboto Regular 36px  
 Headline Large: Roboto Regular 36px  
@@ -24,6 +24,3 @@ Body Small: Roboto Medium 12px
 Caption Large: Roboto Medium 13px  
 Caption Medium: Roboto Medium 12px  
 Caption Small: Roboto Medium 11px  
-
-
-# Globals
