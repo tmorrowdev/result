@@ -28,6 +28,7 @@ Welcome to our design system documentation! Below you will find the entire conte
   - [Code](./brand-2/components/code.md)
   - [Action/Button ](./brand-2/components/action-button/design.md)
     - [Design](./brand-2/components/action-button/design.md)
+    - [Accessibility](./brand-2/components/action-button/accessibility.md)
 - [Patterns](./brand-2/patterns/login-page-mobile.md)
   - [Login Page-Mobile](./brand-2/patterns/login-page-mobile.md)
   - [Review Pattern - Mobile](./brand-2/patterns/review-pattern-mobile.md)
